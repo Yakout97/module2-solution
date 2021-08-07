@@ -28,7 +28,7 @@ section > .box-1 , .box-2 , .box-3{
     overflow: hidden;
 }
 
- /*section > .box-1 >h2{
+section > .box-1 >h2{
     font-size: 22px;
     text-align: center;
     background-color:#D59898;
@@ -37,18 +37,8 @@ section > .box-1 , .box-2 , .box-3{
     border-left: 2px solid black;
     float:right;
     margin: -1px;
-}*/
-section > .box-1 >h2{
-    position: relative;
-    top:-18px;
-    left: 276px;
-    font-size: 22px;
-    text-align: center;
-    background-color:#D59898;
-    width: 150px;
-    border-bottom: 2px solid black;
-    border-left: 2px solid black;
 }
+
 section > .box-2 >h2{
     font-size: 22px;
     text-align: center;
